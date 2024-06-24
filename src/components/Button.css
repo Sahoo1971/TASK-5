@@ -1,0 +1,18 @@
+.button {
+    font-size: 1.2em;
+    background: #ffffff33;
+    color: white;
+  }
+  
+  .button:hover {
+    background: #ffffff55;
+  }
+  
+  .button.secondary {
+    background: #ff4c4c;
+  }
+  
+  .button.secondary:hover {
+    background: #ff0000;
+  }
+  

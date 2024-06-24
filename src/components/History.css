@@ -1,0 +1,13 @@
+.history {
+    margin-top: 20px;
+    background: #ffffff33;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .history-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+  }
+  
